@@ -1,6 +1,6 @@
 {
   "name": "@otklib/clickhouse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "author": "otkd",
   "license": "MIT",
@@ -14,8 +14,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@otklib/core": "^1.0.1",
-    "@otklib/db": "^1.0.1",
+    "@otklib/core": "^1.0.2",
+    "@otklib/db": "^1.0.2",
     "clickhouse": "2.6.0"
   },
   "devDependencies": {
